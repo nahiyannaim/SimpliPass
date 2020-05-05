@@ -2,27 +2,16 @@
 
 _Maximize your academic success through optimal course selections and reviews!_
 
-[![HitCount](http://hits.dwyl.io/nahiyannaim/https://githubcom/darshanpandhi/SimpliPass.svg)](http://hits.dwyl.io/nahiyannaim/https://githubcom/darshanpandhi/SimpliPass)
+[![HitCount](http://hits.dwyl.io/nahiyannaim/https://githubcom/nahiyannaim/SimpliPass.svg)](http://hits.dwyl.io/nahiyannaim/https://githubcom/nahiyannaim/SimpliPass)
 
-## Deployment
-
-### Web
-
-- [Production](https://master.dh9t5gt5arcji.amplifyapp.com/)
-- [Develop](https://develop.dh9t5gt5arcji.amplifyapp.com/)
-
-### Mobile
-
-- Clone Repo and Build from Visual Studio 2019
-- See instructions [here](https://github.com/darshanpandhi/SimpliPass/wiki/Setup)
-
-### Server
-
-- [Here](http://simplipass-development.tmyzhjtuxt.us-east-2.elasticbeanstalk.com/)
+<img src="src/images/simplipass_Web.png" width="900"/>
+<img src="src/images/simplipass_Mobile1.png" width="250"/> 
+<img src="src/images/simplipass_Mobile2.png" width="250"/> 
+<img src="src/images/simplipass_Mobile3.png" width="250"/>
 
 ## More Details
 
-- [Project Wiki](https://github.com/darshanpandhi/SimpliPass/wiki)
+- [See Project Wiki](https://github.com/nahiyannaim/SimpliPass/wiki)
 
 ## Authors
 
