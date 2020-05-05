@@ -4,7 +4,12 @@ _Maximize your academic success through optimal course selections and reviews!_
 
 [![HitCount](http://hits.dwyl.io/nahiyannaim/https://githubcom/nahiyannaim/SimpliPass.svg)](http://hits.dwyl.io/nahiyannaim/https://githubcom/nahiyannaim/SimpliPass)
 
+### Web
+
 <img src="src/images/simplipass_Web.png" width="900"/>
+
+### Mobile
+
 <img src="src/images/simplipass_Mobile1.png" width="240"/> <img src="src/images/simplipass_Mobile2.png" width="240"/> <img src="src/images/simplipass_Mobile3.png" width="240"/>
 
 ## More Details
